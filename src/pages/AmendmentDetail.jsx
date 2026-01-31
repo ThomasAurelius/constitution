@@ -35,8 +35,8 @@ export default function AmendmentDetail() {
           <h3>No-Nonsense Summary</h3>
           <p>{amendment.summary}</p>
           <p className="callout">
-            This amendment applies to everyone equally — no exceptions for title
-            or position.
+            This amendment applies to everyone equally — no exceptions for
+            title, position, political party, or citizenship.
           </p>
         </article>
       </div>
