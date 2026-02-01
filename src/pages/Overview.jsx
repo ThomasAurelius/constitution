@@ -43,11 +43,12 @@ export default function Overview() {
           </p>
         </article>
         <article className="card">
-          <h3>Amendments keep the promise alive</h3>
+          <h3>Supporting unconstitutional actions is un-American</h3>
           <p>
-            The amendments show how the nation expands freedom and fixes flaws
-            without abandoning the whole system. Each one tells a story about
-            rights, accountability, and shared responsibility.
+            It is un-American to support unconstitutional actions. The
+            Constitution exists to protect our freedoms and limit government
+            power. Defending it is a patriotic duty, regardless of political
+            affiliation.
           </p>
         </article>
       </div>
