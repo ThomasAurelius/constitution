@@ -33,7 +33,7 @@ export const amendments = [
     text:
       "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.",
     summary:
-      "Requires warrants signed by a judge and probable cause, guarding against unreasonable searches and seizures. Officers must describe where they will search and what they will take. Warrants to enter a residence or seize property must be approved by a neutral judge. It protects people, homes, papers, and belongings from broad fishing expeditions.",
+      "Requires warrants signed by a judge and probable cause, guarding against unreasonable searches and seizures. Before entering a residence or seizing property, officers must obtain judicial approval and describe where they will search and what they will take. It protects people, homes, papers, and belongings from broad fishing expeditions.",
   },
   {
     id: 5,
